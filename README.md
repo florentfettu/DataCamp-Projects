@@ -4,7 +4,7 @@
   <img width="500" alt="portfolio_view" src="https://vectorlogoseek.com/wp-content/uploads/2019/05/datacamp-vector-logo.png">
 </p>
 
-Here is a summary of the available projects on this repository:
+Here is a summary of the projects available on this repository:
 
 | Project | Description |
 | ------------- | ------------- |
