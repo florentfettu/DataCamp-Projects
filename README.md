@@ -16,3 +16,4 @@ Here is a summary of the projects available on this repository:
 | `Word Frequency in Moby Dick`| Use web scraping and NLP to find the most frequent words in Herman Melville's novel, Moby Dick |
 | `Book Recommendations from Charles Darwin`| Build a book recommendation system using NLP and the text of books like "On the Origin of Species" |
 | `Find Movie Similarity from Plot Summaries`| Use NLP and clustering on movie plot summaries from IMDb and Wikipedia to quantify movie similarity |
+| `TV, Halftime Shows, and the Big Game` | Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows |
